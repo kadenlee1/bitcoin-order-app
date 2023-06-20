@@ -1,4 +1,4 @@
-lint.ymlname: "linting-tool-scan"
+name: "linting-tool-scan"
 
 on:
   push:
